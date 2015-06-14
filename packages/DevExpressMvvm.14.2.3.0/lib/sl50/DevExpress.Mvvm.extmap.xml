@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <assembly>
+    <name>DevExpress.Mvvm</name>
+    <version>14.2.0.5</version>
+    <publickeytoken>382ad28f6ae31f30</publickeytoken>
+    <relpath>DevExpress.Mvvm.dll</relpath>
+    <extension downloadUri="DevExpress.Mvvm.zip"/>
+  </assembly>
+
+</manifest>

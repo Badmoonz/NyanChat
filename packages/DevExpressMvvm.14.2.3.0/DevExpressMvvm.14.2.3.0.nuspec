@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DevExpressMvvm</id>
+    <version>14.2.3.0</version>
+    <title>DevExpress Mvvm Framework</title>
+    <authors>Developer Express Inc.</authors>
+    <owners>Developer Express Inc.</owners>
+    <licenseUrl>https://github.com/DevExpress/DevExpress.Mvvm.Free/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DevExpress/DevExpress.Mvvm.Free</projectUrl>
+    <iconUrl>https://static.devexpress.com/Logos/NugetPackageIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DevExpress MVVM Framework is a set of components helping to work in the Model-View-ViewModel pattern in Silverlight, WPF, and WinRT.
+The source code with testing libraries, samples, and documentation is available on GitHub. Click Project Information to go to GitHub.</description>
+    <summary>DevExpress MVVM Framework is a set of components helping to work in the Model-View-ViewModel pattern in Silverlight, WPF, and WinRT.</summary>
+    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <language>en-US</language>
+    <tags>devexpress dx mvvm silverlight wpf winrt windows8 xaml</tags>
+  </metadata>
+</package>
